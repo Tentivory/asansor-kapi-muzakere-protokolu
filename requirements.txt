@@ -1,0 +1,3 @@
+# bagimlilik yok.
+# ruh hali: kirgin
+# cay: opsiyonel ama protokol cay gelmezse yarim kapanir
